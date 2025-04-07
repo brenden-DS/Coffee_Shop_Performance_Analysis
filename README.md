@@ -3,6 +3,7 @@
 ## Project Brief
 
 This project focuses on analyzing sales performance across various geographical locations, product categories, pricing strategies, and quantity sold for a coffee shop over a six-month period. The analysis aims to provide insights into sales trends by hour, day, and month, leveraging a comprehensive dataset.
+Here's the link to the interactive dashboard created in Power BI [Link](https://app.powerbi.com/view?r=eyJrIjoiZjBhNDA1MTEtOThjOS00NTEzLTgwNjgtZjgwN2IzNzc3NGEyIiwidCI6IjAzNWEyYzY4LTc2YjQtNGViYS1hMTVhLWNiYmNhOTY4NjhjZCJ9)
 
 ### Dataset Features
 
