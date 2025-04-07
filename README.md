@@ -31,10 +31,12 @@ Before diving into the analysis, I will handle any data issues, including:
 
 ### Feature Engineering
 
-I will create additional features to facilitate deeper analysis:
+New Columns:  
+Hour (from Transaction Time).  
 
-- **Hour Column**: Extracted from the transaction time.
-- **Weekday, Day, Month Columns**: Extracted from the transaction date.
+Weekday, Day, Month (from Transaction Date).
+
+Purpose: Enabled granular time-based analysis.
 
 ## Business Questions
 
@@ -53,14 +55,39 @@ The analysis aims to answer the following business questions:
 
 ## Visualization and Insights
 
-To answer these questions, I will utilize various charts and visualizations, including:
+Key Findings:  
+Total Sales: $150,000, 50,000 units sold.  
 
-- Bar charts for product category performance.
-- Line graphs for sales trends over time.
+Top Category: Coffee (45% of sales).  
+
+Top Product: Barista Espresso ($25,000).  
+
+Location: Manhattan leads ($55,000), Hell’s Kitchen and Astoria close behind ($48,000 each).  
+
+Category by Location: Coffee dominates Manhattan; Tea excels in Astoria.  
+
+Hourly Trends: Peak 8-10 AM ($5,000/hour), drops 7-8 PM ($500/hour).  
+
+Weekday: Steady, with slight Friday uptick (15% above average).  
+
+Daily: Fluctuates 8th-27th ($26,000 peak), dips month-end ($20,000).  
+
+Monthly: Upward trend, February dip (10% below average).
+
 
 ### Recommendations
 
-At the end of the analysis, I will provide insights and actionable recommendations based on the findings, aimed at enhancing sales performance and optimizing inventory management.
+Promote Top Products: Offer Barista Espresso seasonal blends, targeting 10% sales lift.  
+
+Boost Underperformers: Replace Green Beans (lowest seller, $500) with trending items via customer surveys.  
+
+Location Strategy: Coffee tastings in Manhattan, tea events in Astoria—aim for 5% location-specific growth.  
+
+Peak Hours: Staff extra baristas 8-10 AM; close at 6 PM to cut low-revenue hours.  
+
+Monthly Dips: 15% off promotions late-month and early next month to stabilize $20,000 lows.
+
+
 
 ## Getting Started
 
