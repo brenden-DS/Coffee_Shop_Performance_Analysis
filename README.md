@@ -30,7 +30,16 @@ The analysis addresses the following questions:
 ### Visualizations:
 
 Overview
-![Overview]()
+
+![Overview](https://github.com/brenden-DS/Coffee_Shop_Performance_Analysis/blob/main/coffee%20overview.PNG)
+
+Sales Insights
+
+![sales](https://github.com/brenden-DS/Coffee_Shop_Performance_Analysis/blob/main/coffee%20overview.PNG)
+
+Product Insights
+
+![product]()
 
 - Visualizations were created using Python libraries (Matplotlib and Seaborn) in the Jupyter Notebook, including line charts for hourly trends, bar charts for category sales, and heatmaps for location performance. An interactive Power BI dashboard was developed to present key metrics, such as sales by location and hourly trends, with a Canva-designed background for enhanced visual appeal.
   
