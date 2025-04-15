@@ -10,7 +10,7 @@ The dataset comprises transaction records with the following features: Transacti
 
 ### Data Preprocessing:
 Data cleaning was performed using Python’s pandas library in a Jupyter Notebook. Steps included:  
-- Handling missing values by imputation or removal.  
+- Handling missing values by imputation.  
 - Identifying and eliminating duplicate entries.  
 - Standardizing date and time formats for consistency across the dataset.
 
